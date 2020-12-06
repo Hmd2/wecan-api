@@ -9,8 +9,10 @@
     patch  http://localhost:3000/trip/id
     delete http://localhost:3000/trip/id
 
-# Swagger url: http://localhost:3000/api/
+# Swagger url: http://localhost:3000/api/ 
 
+# **********************************************
+# **********************************************
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
