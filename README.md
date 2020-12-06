@@ -3,7 +3,12 @@
 # Postman url: 
     post   http://localhost:3000/trip
       body > x-www-form-urlencoded
-        ajouter key / value (ville / activitée)
+              ajouter key / value (ville / activitée)
+      Json > 
+      {
+        "city": string,
+        "activities": string
+      }
     get    http://localhost:3000/trip
     get    http://localhost:3000/trip/id
     patch  http://localhost:3000/trip/id
