@@ -1,3 +1,17 @@
+# npm install
+# nest start --watch (ou) npm start (ou) npm run start
+# Postman url: 
+    post   http://localhost:3000/trip
+      body > x-www-form-urlencoded
+        ajouter key / value (ville / activitée)
+    get    http://localhost:3000/trip
+    get    http://localhost:3000/trip/id
+    patch  http://localhost:3000/trip/id
+    delete http://localhost:3000/trip/id
+
+# Swagger url: http://localhost:3000/api/
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
